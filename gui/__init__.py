@@ -1,0 +1,1 @@
+# Inizializza il pacchetto core
